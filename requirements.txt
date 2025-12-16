@@ -4,5 +4,4 @@ numpy
 xgboost
 jpholiday
 matplotlib
-japanize-matplotlib
 scikit-learn
