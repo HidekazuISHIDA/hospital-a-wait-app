@@ -8,7 +8,6 @@ import streamlit as st
 import jpholiday
 import xgboost as xgb
 import matplotlib.pyplot as plt
-import japanize_matplotlib  # noqa: F401
 
 # ---------------------------
 # 設定
