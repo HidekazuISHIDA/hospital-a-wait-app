@@ -1,1 +1,0 @@
-# hospital-a-wait-app
