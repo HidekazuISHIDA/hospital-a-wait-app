@@ -100,7 +100,7 @@ def simulate_day(
     time_slots = pd.date_range(
         start=target_date.replace(hour=8, minute=0),
         end=target_date.replace(hour=18, minute=0),
-        freq="30T",
+        freq=pd.Timedelta(minutes=30),
     )
 
     results = []
